@@ -35,7 +35,3 @@ This project is designed to collect news articles from various RSS feeds, store 
   ```bash
   celery -A tasks worker --loglevel=info
   ```
-
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
